@@ -1,0 +1,15 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\bin\Debug\net5.0\GratingSwitch.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\bin\Debug\net5.0\GratingSwitch.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\bin\Debug\net5.0\GratingSwitch.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\bin\Debug\net5.0\GratingSwitch.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\bin\Debug\net5.0\GratingSwitch.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\bin\Debug\net5.0\ref\GratingSwitch.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\bin\Debug\net5.0\GratingSwitch.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\GratingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\GratingSwitch.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\GratingSwitch.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\GratingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\GratingSwitch.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\ref\GratingSwitch.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\GratingSwitch.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingSwitch\obj\Debug\net5.0\GratingSwitch.genruntimeconfig.cache

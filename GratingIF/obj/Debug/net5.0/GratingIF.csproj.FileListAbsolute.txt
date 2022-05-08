@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\bin\Debug\net5.0\GratingIF.exe
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\bin\Debug\net5.0\GratingIF.deps.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\bin\Debug\net5.0\GratingIF.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\bin\Debug\net5.0\GratingIF.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\bin\Debug\net5.0\GratingIF.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\bin\Debug\net5.0\ref\GratingIF.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\bin\Debug\net5.0\GratingIF.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\ref\GratingIF.dll
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.pdb
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.genruntimeconfig.cache
+C:\Users\Gebruiker\Desktop\KOOL\3. Kevadsemester\PersonalityTest\GratingIF\obj\Debug\net5.0\GratingIF.csproj.AssemblyReference.cache
